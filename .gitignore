@@ -1,0 +1,4 @@
+# Project exclude paths
+/PhotoHelpAppUi/target/
+/PhotoHelpCore/target/
+/PhotoHelpWebUI/target/
